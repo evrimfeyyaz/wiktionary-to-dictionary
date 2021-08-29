@@ -1,0 +1,9 @@
+{
+  "name": "wiktionary-to-dictionary",
+  "version": "0.0.1",
+  "description": "Convert Wiktionary pages to a structured format.",
+  "main": "index.js",
+  "repository": "git@github.com:evrimfeyyaz/wiktionary-to-dictionary.git",
+  "author": "Evrim Persembe <hi@evrim.io>",
+  "license": "MIT"
+}
